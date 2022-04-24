@@ -12,7 +12,7 @@
 
 - 可用的Unity Hub
 - Unity Editor v2021.3.0f1
-- 大概了解Sprite Sheets如何製作與切割(目前仍是使用Vampire Survivors內置的Sheets，由SIN#4470製作)
+- 大概了解Sprite Sheets如何製作與切割(目前仍是使用Vampire Survivors內置的Sheets，由SIN#4470修改模組)
 - (視未來需求隨時補充)
 
 # Resources
