@@ -18,4 +18,5 @@
 # Resources
 - [Vampire Survivors(僅提取Sprite部分)](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
 - [SIN#4470修改的平平子模組](https://drive.google.com/file/d/1zN6R67VLk83J1_kjx0Z68bhKAO1CcBio/view)
+- [Navmesh Plus套件](https://github.com/h8man/NavMeshPlus)
 
